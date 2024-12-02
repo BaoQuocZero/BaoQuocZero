@@ -2,21 +2,22 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Chào các bạn, tôi là Nguyễn Lâm Quốc Bảo 👋</h1>
-<h3 align="center">Một lập trình viên Frontend đam mê sáng tạo đến từ Việt Nam 🚀</h3>
+<h3 align="center">Một lập trình viên Frontend "siêu đam mê" đến từ Việt Nam 🌍</h3>
 
 <!--- snake -->
-## 🐍 Con rắn đang nuốt những đóng góp của tôi
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+## 🐍 Con rắn đang "làm mưa làm gió" trên biểu đồ đóng góp của tôi
+<p align="center">
+	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
 </p>
+<p align="center">Con rắn này ăn mừng mỗi khi tôi đóng góp... hoặc mỗi khi tôi quên commit 😅</p>
 
-<h3 align="left">Kết nối với tôi:</h3>
+<h3 align="left">Kết nối với tôi (Nhưng đừng spam tôi nhé, tôi cũng có giới hạn 😜):</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/24541726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24541726" height="30" width="40" /></a>
 <a href="https://fb.com/quocbao.nguyenlam.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quocbao.nguyenlam.1" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Ngôn ngữ và công cụ tôi sử dụng:</h3>
+<h3 align="left">Ngôn ngữ và công cụ tôi "làm chủ" (hoặc ít nhất là đang học hỏi 🤓):</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
@@ -37,3 +38,5 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
+
+<p align="center"><i>PS: Nếu tôi không trả lời tin nhắn của bạn ngay lập tức, đừng lo, tôi chỉ đang bận "chiến đấu" với một vài bug khó nhằn hoặc... đang ngủ trưa thôi 😴.</i></p>
