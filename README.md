@@ -1,14 +1,3 @@
-# CO2 Emissions Visualization
-
-This chart visualizes the global CO2 emissions by fuel and industry. Unfortunately, Markdown does not support embedding `<iframe>` directly, but you can view the interactive chart by clicking the link below:
-
-[Global CO2 emissions by fuel and industry](https://datawrapper.dwcdn.net/zrOif/1/)
-
-Alternatively, you can view the chart below:
-
-![CO2 Emissions Chart](https://datawrapper.dwcdn.net/zrOif/1/)
-
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
