@@ -1,6 +1,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-![Quốc Bảo](https://github-readme-stats.vercel.app/api?username=baoquoczero&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <h3 align="center">Một lập trình viên Frontend "siêu đam mê" đến từ Việt Nam 🌍</h3>
 
 <!--- snake -->
