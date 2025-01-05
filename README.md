@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=buggobugbug.buggobugbug" />
 
 <h1 align="center">
-	<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Chào+các+bạn!+👋;+Tôi+là+Nguyễn+Lâm+Quốc+Bảo!;+Một+lập+trình+viên+Frontend+siêu+đam+mê+đến+từ+Việt+Nam+🌍" />
+	<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Chào+các+bạn!+👋;+Tôi+là+Nguyễn+Lâm+Quốc+Bảo!;+Một+lập+trình+viên+Frontend+siêu+đam+mê+đến+từ+Việt+Nam+🌍" />
 </h1>
 
 <h3 align="center">A passionate software developer from Viet Nam 🇻🇳</h3>
