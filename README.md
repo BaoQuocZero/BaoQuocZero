@@ -10,10 +10,11 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=baoquoczero&show_icons=true" />
+</picture>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baoquoczero&layout=compact&langs_count=8&card_width=320" />
 </a>
-</picture>
 
 <h3 align="center">Một lập trình viên Frontend "siêu đam mê" đến từ Việt Nam 🌍</h3>
 
