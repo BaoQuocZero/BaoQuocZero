@@ -1,6 +1,16 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=baoquoczero&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=baoquoczero&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=baoquoczero&show_icons=true" />
+</picture>
 <h3 align="center">Một lập trình viên Frontend "siêu đam mê" đến từ Việt Nam 🌍</h3>
 
 <!--- snake -->
