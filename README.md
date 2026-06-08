@@ -1,40 +1,153 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Chào+các+bạn!+👋;+Tôi+là+Nguyễn+Lâm+Quốc+Bảo!;" />
-</h1>
-<h3 align="center">Một Full Stack Developer "siêu đam mê" đến từ Việt Nam 🌍</h3>
+# BaoQuocZero
 
-<!--- snake -->
-## 🐍 Con rắn đang "làm mưa làm gió" trên biểu đồ đóng góp của tôi
-<p align="center">
-	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
-</p>
-<p align="center">Con rắn này ăn mừng mỗi khi tôi đóng góp... hoặc mỗi khi tôi quên commit 😅</p>
-<div style="display: flex; justify-content: space-evenly; align-items: center;">
-  <picture style="height: 325;">
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=baoquoczero&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=baoquoczero&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=baoquoczero&show_icons=true" style="height: 100%;" />
-  </picture>
+> Human-powered. AI-assisted. Bug-generated.
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoquoczero&layout=compact" style="height: 195px;" />
-</div>
-<h3 align="left">Kết nối với tôi (Nhưng đừng spam tôi nhé, tôi cũng có giới hạn 😜):</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/24541726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24541726" height="30" width="40" /></a>
-<a href="https://fb.com/quocbao.nguyenlam.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quocbao.nguyenlam.1" height="30" width="40" /></a>
-</p>
+```txt
+██████╗  █████╗  ██████╗  ██████╗ ██╗   ██╗ ██████╗  ██████╗ ███████╗██████╗  ██████╗
+██╔══██╗██╔══██╗██╔═══██╗██╔═══██╗██║   ██║██╔═══██╗██╔════╝ ██╔════╝██╔══██╗██╔═══██╗
+██████╔╝███████║██║   ██║██║   ██║██║   ██║██║   ██║██║  ███╗█████╗  ██████╔╝██║   ██║
+██╔══██╗██╔══██║██║▄▄ ██║██║▄▄ ██║██║   ██║██║   ██║██║   ██║██╔══╝  ██╔══██╗██║   ██║
+██████╔╝██║  ██║╚██████╔╝╚██████╔╝╚██████╔╝╚██████╔╝╚██████╔╝███████╗██║  ██║╚██████╔╝
+╚═════╝ ╚═╝  ╚═╝ ╚══▀▀═╝  ╚══▀▀═╝  ╚═════╝  ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝
+```
 
-<h3 align="left">Ngôn ngữ và công cụ tôi "làm chủ" (hoặc ít nhất là đang học hỏi 🤓):</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,figma,git,github,js,materialui,nodejs,postman,react,sass,vscode,windows" />
-  </a>
-</p>
+## System Information
 
-<p align="center"><i>PS: Nếu tôi không trả lời tin nhắn của bạn ngay lập tức, đừng lo, tôi chỉ đang bận "chiến đấu" với một vài bug khó nhằn hoặc... đang ngủ trưa thôi 😴.</i></p>
+```yaml
+name: BaoQuocZero
+species: Human
+role: Fullstack Developer
+education: Software Engineering
+location: Vietnam
+power_level: SSS
+status: Compiling...
+```
+
+---
+
+## About
+
+Tôi là một lập trình viên thích xây dựng sản phẩm thực tế bằng:
+
+* Node.js
+* NestJS
+* ReactJS
+* MongoDB
+* TypeScript
+* Docker
+
+Hiện tại tôi đang trong quá trình tiến hóa từ:
+
+```txt
+Junior
+  ↓
+Developer
+  ↓
+Senior Developer
+  ↓
+AI User
+  ↓
+AI Trainer
+  ↓
+BaoQuocZero
+```
+
+---
+
+## Current Stack
+
+```typescript
+const baoQuocZero = {
+  backend: [
+    "NodeJS",
+    "NestJS",
+    "Express",
+    "MongoDB",
+    "MySQL"
+  ],
+
+  frontend: [
+    "ReactJS",
+    "NextJS",
+    "TypeScript"
+  ],
+
+  devops: [
+    "Docker",
+    "Linux",
+    "Nginx"
+  ],
+
+  ai: [
+    "ChatGPT",
+    "Cursor",
+    "Claude",
+    "Copilot"
+  ],
+
+  status: "Still learning..."
+};
+```
+
+---
+
+## Runtime Statistics
+
+```txt
+☕ Coffee Consumed     ████████████░░░░░ 78%
+
+🐛 Bugs Created       ███████████████░░ 92%
+
+🔧 Bugs Fixed         ███████████░░░░░░ 67%
+
+🤖 AI Usage           ████████████████░ 99%
+
+🧠 Understanding AI   ████████░░░░░░░░░ 50%
+
+💀 Production Deploy  ███████████████░░ 95%
+```
+
+---
+
+## Philosophy
+
+> Nếu bug xuất hiện một lần:
+>
+> "Lỗi rồi."
+
+> Nếu bug xuất hiện hai lần:
+>
+> "Có gì đó sai sai."
+
+> Nếu bug xuất hiện sau khi deploy:
+>
+> "Khách hàng đang test giúp mình."
+
+---
+
+## GitHub Activity
+
+```bash
+while(alive){
+    code();
+    commit();
+    deploy();
+    regret();
+}
+```
+
+---
+
+## Final Message
+
+```txt
+I don't always write code.
+
+Sometimes AI writes it.
+
+I just approve the Pull Request.
+```
+
+### BaoQuocZero v1.0.0
+
+Powered by caffeine, curiosity and unreasonable confidence.
